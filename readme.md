@@ -1,6 +1,6 @@
 # Hola mundo, soy Liz Karol Vergara 👋
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 
 Soy una desarrolladora web apasionada por crear experiencias web impresionantes y funcionales. Tengo experiencia en desarrollo web front-end, y disfruto trabajando en proyectos que combinan creatividad y tecnología.
 
