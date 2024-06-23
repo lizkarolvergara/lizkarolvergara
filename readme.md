@@ -4,6 +4,8 @@
 
 Soy una desarrolladora web apasionada por crear experiencias web impresionantes y funcionales. Tengo experiencia en desarrollo web front-end, y disfruto trabajando en proyectos que combinan creatividad y tecnología.
 
+Actualmente estudiante de Desarrollo de Sistemas de la Información en **IDAT**
+
 ## 🚀 Sobre mí
 
 - 🌐 Me encanta diseñar y desarrollar sitios web modernos y responsivos.
