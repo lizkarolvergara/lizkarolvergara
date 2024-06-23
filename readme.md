@@ -1,4 +1,4 @@
-# Hola, soy Liz Karol Vergara 👋
+# Hola mundo, soy Liz Karol Vergara 👋
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="gif">
 
@@ -23,6 +23,3 @@ Soy una desarrolladora web apasionada por crear experiencias web impresionantes 
 
 ¡Gracias por visitar mi perfil! Estoy emocionada por conectar y colaborar en proyectos increíbles.
 
----
-
-![Gracias](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
