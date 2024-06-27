@@ -21,7 +21,7 @@ Actualmente estudiante de Desarrollo de Sistemas de la Información en **IDAT**
 ## 📫 Cómo contactarme
 
 - LinkedIn: [https://www.linkedin.com/in/lizkarolvergara/](#)
-- Correo Electrónico: [lizkarolvergara@gmail.com](mailto:lizkarolvergara@gmail.com)
+- Correo Electrónico: [lizvergarareategui@gmail.com](mailto:lizvergarareategui@gmail.com)
 
 ¡Gracias por visitar mi perfil! Estoy emocionada por conectar y colaborar en proyectos increíbles.
 
