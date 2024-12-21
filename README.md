@@ -20,7 +20,7 @@ Actualmente estoy estudiando Desarrollo de Sistemas Front-end y Back-end en **ID
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [Mi perfil](https://www.linkedin.com/in/lizkarolvergara/)
+- LinkedIn: [Liz Karol Vergara](https://www.linkedin.com/in/lizkarolvergara/)
 - Correo Electrónico: [lizvergarareategui@gmail.com](mailto:lizvergarareategui@gmail.com)
 
 ¡Gracias por visitar mi perfil! 
