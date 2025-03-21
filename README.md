@@ -1,4 +1,4 @@
-# Hola mundo, soy Liz Karol Vergara 👋
+# Hola, mi nombre es Liz Karol Vergara 👋
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 
