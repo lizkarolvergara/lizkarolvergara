@@ -1,7 +1,7 @@
 # Hola, soy Liz Karol Vergara 👋
 
 **Ingeniera Civil colegiada · Desarrolladora Full-Stack**
-📍 Tarapoto, Perú
+📍 Perú
 
 Soy ingeniera civil con 9 años de experiencia en oficina técnica y supervisión de obra, y egresada de **Desarrollo de Sistemas Front-End y Back-End (IDAT, 2026)**. Me interesa construir software que resuelva problemas reales del sector construcción, un sector que conozco de primera mano porque trabajo en él.
 
