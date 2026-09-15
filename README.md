@@ -1,25 +1,28 @@
-# Hola, mi nombre es Liz Karol Vergara 👋
+# Hola, soy Liz Karol Vergara 👋
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
+**Ingeniera Civil colegiada · Desarrolladora Full-Stack**
+📍 Tarapoto, Perú
 
-Actualmente estudiante de Desarrollo de Sistemas Front-end y Back-end en el instituto IDAT. Me interesa crear interfaces limpias, accesibles y funcionales, combinando diseño y tecnología para mejorar la experiencia del usuario. 
+Soy ingeniera civil con 9 años de experiencia en oficina técnica y supervisión de obra, y egresada de **Desarrollo de Sistemas Front-End y Back-End (IDAT, 2026)**. Me interesa construir software que resuelva problemas reales del sector construcción, un sector que conozco de primera mano porque trabajo en él.
 
-## 🚀 Sobre mí
+## 🏗️ Proyecto destacado
 
-- 🌐 Me encanta diseñar y desarrollar sitios web modernos y responsivos.
-- 💻 Conocimientos en tecnologías como **JavaScript**, **React.js**, **NodeJs**, **Angular**, **Next.js**, **HTML**, **CSS**, **SQL**, **Git**.
-- 📚 Estoy en constante aprendizaje para mejorar mis habilidades y mantenerme actualizada con las tendencias del desarrollo web.
-- 🎨 Disfruto del diseño y la creación de interfaces intuitivas para aplicaciones web.
+### [Yanashpa Proyectos](https://yanashpa-obras.vercel.app)
+PWA que desarrollé de forma independiente y que **se usa actualmente en obra** para gestionar proyectos de construcción y mantenimiento contratados.
 
-## 🛠️ Tecnologías y Herramientas
+- Módulos de Proyectos, Seguimiento, Recorridos e Informes
+- Registro de visitas de campo con evidencia fotográfica
+- Exportación de reportes en PDF
+- **Stack:** React 19 · TypeScript · Vite · Tailwind CSS 4 · Supabase · Vercel
 
-- **Lenguajes de Programación**: JavaScript, TypeScript.
-- **Tecnologías y Frameworks**: React, Node, Angular, Next js
-- **Herramientas de Desarrollo**: Visual Studio Code, Git, GitHub.
+## 🛠️ Tecnologías
 
-## 📫 Contáctame
+**Frontend:** React · React Native · TypeScript · JavaScript · Angular · HTML · CSS · Tailwind CSS · Bootstrap
+**Backend y datos:** Java · Node.js · Supabase · SQL · Bases de datos no relacionales
+**Cloud y DevOps:** AWS · Docker · Jenkins · CI/CD · Vercel · Netlify
+**Herramientas:** Git · GitHub · Vite · VS Code
 
-- LinkedIn: [Liz Karol Vergara](https://www.linkedin.com/in/lizkarolvergara/)
-- Correo Electrónico: [lizvergarareategui@gmail.com](mailto:lizvergarareategui@gmail.com)
+## 📫 Contacto
 
-
+- 🌐 Portafolio: [lizkarolvergara.netlify.app](https://lizkarolvergara.netlify.app)
+- 💼 LinkedIn: [Liz Karol Vergara](https://www.linkedin.com/in/lizkarolvergara/)
