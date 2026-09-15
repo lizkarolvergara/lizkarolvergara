@@ -17,10 +17,10 @@ PWA que desarrollé de forma independiente y que **se usa actualmente en obra** 
 
 ## 🛠️ Tecnologías
 
-**Frontend:** React · React Native · TypeScript · JavaScript · Angular · HTML · CSS · Tailwind CSS · Bootstrap
-**Backend y datos:** Java · Node.js · Supabase · SQL · Bases de datos no relacionales
-**Cloud y DevOps:** AWS · Docker · Jenkins · CI/CD · Vercel · Netlify
-**Herramientas:** Git · GitHub · Vite · VS Code
+- **Frontend:** React · React Native · TypeScript · JavaScript · Angular · HTML · CSS · Tailwind CSS · Bootstrap
+- **Backend y datos:** Java · Node.js · Supabase · SQL · Bases de datos no relacionales
+- **Cloud y DevOps:** AWS · Docker · Jenkins · CI/CD · Vercel · Netlify
+- **Herramientas:** Git · GitHub · Vite · VS Code
 
 ## 📫 Contacto
 
